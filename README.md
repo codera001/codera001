@@ -25,6 +25,29 @@ I'm currently strengthening my full-stack development skills and exploring remot
 - Firebase
 - VS Code
 
+
+### 🌐 Websites I've Contributed To
+
+I've contributed to real-world web projects, working on frontend development, API integration, and backend functionality.
+
+#### 🔹 [SolarPrimex](https://solarprimex.com/)
+**Tech Stack:** React, REST APIs  
+**Contribution:** Frontend Development & API Integration
+- Developed frontend interfaces using React.
+- Integrated backend APIs provided by a backend collaborator to connect the frontend with application functionality.
+
+#### 🔹 [RiskyT](https://www.riskyt.com.ng/)
+**Tech Stack:** PHP, MySQL  
+**Contribution:** Backend Development
+- Contributed to backend development using PHP and MySQL.
+- Worked on server-side functionality and database interactions.
+
+#### 🔹 [Diginums](https://diginums.com/)
+**Tech Stack:** React  
+**Contribution:** Frontend Development
+- Contributed to building and implementing user interfaces using React.
+
+
 ### 🚀 Featured Projects
 
 #### Loan Management System
@@ -44,7 +67,7 @@ A responsive business website built with Next.js and TypeScript.
 - Service pages and navigation
 - Contact and service-request functionality
 
-[Visit Portfolio](https://codera001.github.io/My-portfolio/)
+[Visit Live Site]((https://www.debloomfieldinvestments.com/))
 
 ### 🌱 Currently Improving
 - React application architecture
