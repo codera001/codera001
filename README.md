@@ -67,7 +67,7 @@ A responsive business website built with Next.js and TypeScript.
 - Service pages and navigation
 - Contact and service-request functionality
 
-[Visit Live Site]((https://www.debloomfieldinvestments.com/))
+[Visit Live Site](https://www.debloomfieldinvestments.com/)
 
 ### 🌱 Currently Improving
 - React application architecture
